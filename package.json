@@ -1,0 +1,15 @@
+{
+  "name": "asteroids-game",
+  "version": "1.0.0",
+  "description": "A replica of the classic Asteroids Redux game. Completed as part of the App Academy Open curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch --mode=development"
+  },
+  "keywords": [
+    "asteroids"
+  ],
+  "author": "Nick Nemtcev",
+  "license": "ISC"
+}
